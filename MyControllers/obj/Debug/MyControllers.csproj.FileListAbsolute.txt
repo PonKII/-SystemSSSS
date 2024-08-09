@@ -1,0 +1,13 @@
+E:\SystemSSSS\MyControllers\bin\Debug\MyControllers.dll
+E:\SystemSSSS\MyControllers\bin\Debug\MyControllers.pdb
+E:\SystemSSSS\MyControllers\obj\Debug\MyControllers.csproj.AssemblyReference.cache
+E:\SystemSSSS\MyControllers\obj\Debug\Instrument.g.cs
+E:\SystemSSSS\MyControllers\obj\Debug\MyControllers_MarkupCompile.cache
+E:\SystemSSSS\MyControllers\obj\Debug\MyControllers_MarkupCompile.lref
+E:\SystemSSSS\MyControllers\obj\Debug\Instrument.baml
+E:\SystemSSSS\MyControllers\obj\Debug\MyControllers.g.resources
+E:\SystemSSSS\MyControllers\obj\Debug\MyControllers.csproj.CoreCompileInputs.cache
+E:\SystemSSSS\MyControllers\obj\Debug\MyControllers.dll
+E:\SystemSSSS\MyControllers\obj\Debug\MyControllers.pdb
+E:\SystemSSSS\MyControllers\obj\Debug\SkeletonScreen.g.cs
+E:\SystemSSSS\MyControllers\obj\Debug\SkeletonScreen.baml
